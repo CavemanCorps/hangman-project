@@ -1,2 +1,4 @@
 FIXED: came up with a solution to add extra spaces despite html removing them by default
 TODO: make letters case insensitive to add upper case letters
+
+INSTRUCTIONS: in src, run AppImproved. Made this second copy just in case.
